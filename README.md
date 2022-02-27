@@ -10,4 +10,4 @@ Desenvolver a landing page utilizando HTML5 + CSS3
 Versão Desktop
 
 #Desktop
-<img src="./img/LP.png" alt="Landing Page " >
+<img src="./LP.png" alt="Landing Page " >
