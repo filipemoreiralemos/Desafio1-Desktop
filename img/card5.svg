@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326" height="417" viewBox="0 0 326 417">
+  <defs>
+    <filter id="Retângulo_4" x="0" y="0" width="326" height="417" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.612"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="consultor" transform="translate(1 0.084)">
+    <g id="Grupo_4" data-name="Grupo 4">
+      <g transform="matrix(1, 0, 0, 1, -1, -0.08)" filter="url(#Retângulo_4)">
+        <g id="Retângulo_4-2" data-name="Retângulo 4" transform="translate(1)" fill="#fff" stroke="#d0dde9" stroke-width="2" opacity="0.5">
+          <rect width="314" height="403" rx="6" stroke="none"/>
+          <rect x="1" y="1" width="312" height="401" rx="5" fill="none"/>
+        </g>
+      </g>
+      <path id="Retângulo_5" data-name="Retângulo 5" d="M0,0H314a0,0,0,0,1,0,0V18a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V0A0,0,0,0,1,0,0Z" transform="translate(0 378.916)" fill="#003d79"/>
+      <text id="Nossos_consultores_técnicos_estão_aqui_pra_ajudar_você_a_tomar_a_MELHOR_decisão_para_o_seu_negócio._Nós_iremos_municiar_você_de_informações_relevantes_para_a_sua_tomada_de_decisão._Entre_em_contato_e_experimente_nossa_consultoria._" data-name="Nossos consultores técnicos estão aqui pra ajudar você a tomar a MELHOR decisão para o seu negócio. Nós iremos municiar você de informações relevantes para a sua tomada de decisão. Entre em contato e experimente nossa consultoria.
+" transform="translate(32 162.916)" fill="#020007" font-size="14" font-family="Helvetica"><tspan x="0" y="11">Nossos consultores técnicos estão aqui </tspan><tspan x="0" y="29">pra ajudar você a tomar a MELHOR </tspan><tspan x="0" y="47">decisão para o seu negócio. Nós iremos </tspan><tspan x="0" y="65">municiar você de informações </tspan><tspan x="0" y="83">relevantes para a sua tomada de </tspan><tspan x="0" y="101">decisão. Entre em contato e </tspan><tspan x="0" y="119">experimente nossa consultoria.</tspan><tspan font-family="SegoeUI, Segoe UI"><tspan x="0" y="149"></tspan></tspan></text>
+      <text id="Consultor_Técnico" data-name="Consultor Técnico" transform="translate(32 119.916)" fill="#003d79" font-size="20" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="15">CONSULTOR TÉCNICO</tspan></text>
+      <g id="Grupo_62" data-name="Grupo 62" transform="translate(116.999 24)">
+        <circle id="Elipse_1" data-name="Elipse 1" cx="40" cy="40" r="40" transform="translate(0.001 -0.084)" fill="#1c89f2"/>
+        <g id="Grupo_91" data-name="Grupo 91" transform="translate(0 0)">
+          <path id="Caminho_87" data-name="Caminho 87" d="M75,80.806H5a5,5,0,0,1-5-5V5.8a5,5,0,0,1,5-5H75a5,5,0,0,1,5,5v70a5,5,0,0,1-5,5" transform="translate(0 -0.804)" fill="#fff" opacity="0"/>
+          <path id="Caminho_88" data-name="Caminho 88" d="M36.067,36.786c-.32,0-.64,0-.96.013A1.446,1.446,0,0,0,33.691,38.2a1.471,1.471,0,0,0,1.285,1.49,13.461,13.461,0,0,0,2.548.045,1.7,1.7,0,0,0,1.2-.461.857.857,0,0,1,.75-.264,8.728,8.728,0,0,0,1.861.009c.351-.024.7-.047,1.055-.049a23.359,23.359,0,0,0,5.791-.724,7.483,7.483,0,0,0,3.885-2.026,1.968,1.968,0,0,1,1.608-.708,1.688,1.688,0,0,0,1.773-1.743c.016-2.888.011-5.776,0-8.665A1.644,1.644,0,0,0,54.5,23.6a2.22,2.22,0,0,0-1.269-.218.848.848,0,0,1-1.008-.885,19.622,19.622,0,0,0-.593-3.33c-1.3-5.171-4.384-8.305-9.425-9.58-.8-.2-1.621-.329-2.42-.451-.441-.068-.881-.136-1.319-.215h-5.2c-.3.054-.644.108-.991.16a26.611,26.611,0,0,0-3.115.609,11.868,11.868,0,0,0-7.984,6.52,20.44,20.44,0,0,0-1.628,6.069c-.136.976-.263,1.088-1.231,1.1a1.815,1.815,0,0,0-2,2.023q-.006,4.125,0,8.251a1.75,1.75,0,0,0,1.843,1.873c.609.01,1.219.009,1.831.006l.655,0c1.54,0,2.2-.66,2.21-2.2.016-2.591.011-5.183,0-7.775a2.049,2.049,0,0,0-.7-1.766.821.821,0,0,1-.284-.811c.118-1.006.263-1.9.443-2.72.983-4.5,3.629-7.309,7.863-8.336a24.166,24.166,0,0,1,11.6.036,9.555,9.555,0,0,1,5.861,3.958,16.125,16.125,0,0,1,2.243,7.265.679.679,0,0,1-.305.628,1.936,1.936,0,0,0-.671,1.606c-.019,2.813-.018,5.548,0,8.129a1.838,1.838,0,0,0,1.1,1.823.447.447,0,0,1,.211.236l.16.271-.249.205a10.188,10.188,0,0,1-3,1.065,30.144,30.144,0,0,1-5.7.54l-.906.03a2.294,2.294,0,0,1-2.086-.709.922.922,0,0,0-.68-.216l-.854,0c-.283,0-.565-.005-.849-.005" transform="translate(4.081 1.226)" fill="#fff"/>
+          <path id="Caminho_89" data-name="Caminho 89" d="M36.96,44.1q.36-.93.718-1.86c.246-.646.508-1.289.728-1.945A1.575,1.575,0,0,1,39.6,39.176a11.464,11.464,0,0,0,4.241-2.056,1.329,1.329,0,0,1,1.6-.121c3.549,1.964,7.166,3.8,10.625,5.929A7.159,7.159,0,0,1,58.544,45.5a27.212,27.212,0,0,1,2.9,9.3,1.679,1.679,0,0,1-.383,1.16,9.747,9.747,0,0,1-3.124,2.955,26.1,26.1,0,0,1-9.258,3.363,66.635,66.635,0,0,1-15.487.911,44.523,44.523,0,0,1-13-2.193,17.082,17.082,0,0,1-6.21-3.5,11.889,11.889,0,0,1-.886-.956,2.8,2.8,0,0,1-.648-2.625,32.262,32.262,0,0,1,2.461-7.781,7.814,7.814,0,0,1,3.055-3.375c3.389-2.01,6.881-3.831,10.323-5.743a1.331,1.331,0,0,1,1.6.091,11.6,11.6,0,0,0,4.3,2.083,1.559,1.559,0,0,1,1.154,1.08c.464,1.279.961,2.546,1.445,3.819l.179.015m10.189,4.176c-1.205,0-2.41.01-3.615-.006-.4-.005-.6.108-.561.536a2.807,2.807,0,0,1,0,.533c-.034.4.128.574.541.573q3.645-.013,7.289,0c.366,0,.561-.131.536-.521a3.157,3.157,0,0,1,0-.533c.043-.434-.135-.6-.576-.586-1.205.022-2.41.007-3.615.007" transform="translate(3.091 8.193)" fill="#fff"/>
+          <path id="Caminho_90" data-name="Caminho 90" d="M34.509,12.259a20.3,20.3,0,0,1,5.74.763,7.992,7.992,0,0,1,5.681,5.989q.159.6.294,1.21a2.88,2.88,0,0,1-.255,2.64,2.781,2.781,0,0,0-.369,1.716q-.008,4.035,0,8.073a3.769,3.769,0,0,0,.133,1.114c.176.55-.079.69-.543.778a27.584,27.584,0,0,1-4.356.468c-.4.011-.793-.011-1.188.013a2.476,2.476,0,0,1-1.886-.489,2.185,2.185,0,0,0-1.229-.388,12.86,12.86,0,0,0-3.546.049,3.291,3.291,0,0,0-.01,6.434,12.47,12.47,0,0,0,3.839.016.844.844,0,0,0,.288-.07c1.483-.819,3.119-.494,4.691-.63.145-.013.355-.077.424.1s-.13.268-.245.361a13.417,13.417,0,0,1-7.159,3.315,6.975,6.975,0,0,1-3.078-.489,15.546,15.546,0,0,1-8.9-7.918.9.9,0,0,1,0-.893,3.641,3.641,0,0,0,.36-1.666c0-2.731,0-5.461,0-8.191a3.857,3.857,0,0,0-.708-2.346.764.764,0,0,1-.2-.6,17.451,17.451,0,0,1,.938-3.791,7.984,7.984,0,0,1,5.593-4.88,20.292,20.292,0,0,1,5.691-.691" transform="translate(5.571 2.06)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

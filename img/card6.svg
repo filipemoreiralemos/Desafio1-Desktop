@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326" height="417" viewBox="0 0 326 417">
+  <defs>
+    <filter id="Retângulo_4" x="0" y="0" width="326" height="417" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.612"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="pos_vendas" data-name="pos vendas" transform="translate(1 0.084)">
+    <g id="Grupo_4" data-name="Grupo 4">
+      <g transform="matrix(1, 0, 0, 1, -1, -0.08)" filter="url(#Retângulo_4)">
+        <g id="Retângulo_4-2" data-name="Retângulo 4" transform="translate(1)" fill="#fff" stroke="#d0dde9" stroke-width="2" opacity="0.5">
+          <rect width="314" height="403" rx="6" stroke="none"/>
+          <rect x="1" y="1" width="312" height="401" rx="5" fill="none"/>
+        </g>
+      </g>
+      <path id="Retângulo_5" data-name="Retângulo 5" d="M0,0H314a0,0,0,0,1,0,0V18a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V0A0,0,0,0,1,0,0Z" transform="translate(0 378.916)" fill="#003d79"/>
+      <text id="Temos_o_melhor_pós-vendas_do_Brasil_Contamos_com_uma_super_equipe_especializada_sempre_à_disposição_para_atender_as_demandas_de_nossos_clientes_auxiliando_no_processo_pós_compra_e_garantindo_total_satisfação_com_os_produtos_adquiridos_na_BCMED._" data-name="Temos o melhor pós-vendas do Brasil! Contamos com uma super equipe especializada sempre à disposição para atender as demandas de nossos clientes, auxiliando no processo pós compra e garantindo total satisfação com os produtos adquiridos na BCMED.
+" transform="translate(32 189.916)" fill="#020007" font-size="14" font-family="Helvetica"><tspan x="0" y="11">Temos o melhor pós-vendas do Brasil! </tspan><tspan x="0" y="29">Contamos com uma super equipe </tspan><tspan x="0" y="47">especializada sempre à disposição para </tspan><tspan x="0" y="65">atender as demandas de nossos </tspan><tspan x="0" y="83">clientes, auxiliando no processo pós </tspan><tspan x="0" y="101">compra e garantindo total satisfação </tspan><tspan x="0" y="119">com os produtos adquiridos na BCMED.</tspan><tspan font-family="SegoeUI, Segoe UI"><tspan x="0" y="149"></tspan></tspan></text>
+      <text id="Pós_vendas_Especializado" data-name="Pós vendas Especializado" transform="translate(32 119.916)" fill="#003d79" font-size="20" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="15">PÓS VENDAS </tspan><tspan x="0" y="39">ESPECIALIZADO</tspan></text>
+      <g id="Grupo_62" data-name="Grupo 62" transform="translate(116.039 24)">
+        <circle id="Elipse_1" data-name="Elipse 1" cx="40" cy="40" r="40" transform="translate(0.961 -0.084)" fill="#1c89f2"/>
+        <g id="Grupo_92" data-name="Grupo 92" transform="translate(0 0.978)">
+          <path id="Caminho_80" data-name="Caminho 80" d="M213.385,80.784h-70a5,5,0,0,1-5-5v-70a5,5,0,0,1,5-5h70a5,5,0,0,1,5,5v70a5,5,0,0,1-5,5" transform="translate(-138.383 -0.782)" fill="#fff" opacity="0"/>
+          <g id="Grupo_85" data-name="Grupo 85" transform="translate(14.1 11.839)">
+            <path id="Caminho_81" data-name="Caminho 81" d="M177.886,18.331a1.364,1.364,0,0,0-1.806.135l-5.606,5.606-2.48-2.48a1.326,1.326,0,1,0-1.914,1.834l3.72,3.719a.976.976,0,0,0,1.375,0l6.819-6.846A1.332,1.332,0,0,0,177.886,18.331Z" transform="translate(-144.514 -7.076)" fill="#fff"/>
+            <path id="Caminho_82" data-name="Caminho 82" d="M190.8,23.169a.8.8,0,0,0-.594-.755,7.89,7.89,0,0,1-4.528-4.018,9.169,9.169,0,0,1-1.106-3.558,7.009,7.009,0,0,1,.027-1.3c.028-.269.081-.565.135-.861a.356.356,0,0,0,.026-.163v-.243a.92.92,0,0,0-.511-.728c-.378-.216-.729-.43-1.105-.673l-.216-.136c-.566-.324-1.186-.7-1.779-1.079a1.1,1.1,0,0,0-1.079-.053c-.08.053-.189.106-.3.188l-.107.081a13.088,13.088,0,0,1-1.159.835c-.189.108-.351.164-.513.243a11.181,11.181,0,0,1-4.313.7,7.793,7.793,0,0,1-4.853-2.075.964.964,0,0,0-1.266-.136c-1.025.593-2.076,1.186-3.154,1.751a1.059,1.059,0,0,0-.486.486.639.639,0,0,0-.054.216,1.2,1.2,0,0,0,.027.43,8.071,8.071,0,0,1,.108,1.133v.026a7.4,7.4,0,0,1-.054,1.349,6.21,6.21,0,0,1-.324,1.4,9.877,9.877,0,0,1-3.45,4.583,4.077,4.077,0,0,1-.485.323,7.986,7.986,0,0,1-1.321.539l-.108.054a.872.872,0,0,0-.324.136.922.922,0,0,0-.458.511.614.614,0,0,0-.055.215v.781c0,.324,0,.674-.026,1v.648c0,.433-.028.889-.028,1.32v.3a.945.945,0,0,0,.7.81,7.949,7.949,0,0,1,4.34,3.8,8.138,8.138,0,0,1,1.159,5.1,5.152,5.152,0,0,1-.161.889c0,.029-.027.081-.027.109a.833.833,0,0,0,.485.889c1.186.728,2.211,1.348,3.235,1.941a1.142,1.142,0,0,0,.485.161.849.849,0,0,0,.431-.108,1.86,1.86,0,0,0,.27-.216,6.007,6.007,0,0,1,1.213-.916,9.118,9.118,0,0,1,5.149-.916,7.222,7.222,0,0,1,4.583,1.968,1.2,1.2,0,0,0,.728.405h.081a1.287,1.287,0,0,0,.674-.216c.566-.324,1.105-.62,1.483-.835s.916-.513,1.509-.836a1.124,1.124,0,0,0,.566-.566.6.6,0,0,0,.054-.215,1.074,1.074,0,0,0-.054-.513c-.054-.215-.08-.4-.135-.619a7.519,7.519,0,0,1-.026-1.106,8.186,8.186,0,0,1,.215-1.348,8.78,8.78,0,0,1,.7-1.86,9.009,9.009,0,0,1,3.5-3.881,4.882,4.882,0,0,1,1.429-.539.874.874,0,0,0,.648-.485.513.513,0,0,0,.054-.19c0-.026.026-.053.026-.106a.337.337,0,0,1,.027-.163c0-.3.028-.565.028-.861.026-1,.026-1.969.026-2.886A.332.332,0,0,0,190.8,23.169Zm-6.955,3.018a9.476,9.476,0,0,1-.648,2.426,9.861,9.861,0,0,1-4.313,4.851,10.237,10.237,0,0,1-5.391,1.215,9.658,9.658,0,0,1-7.763-4.719,10.119,10.119,0,0,1-1.348-6.389,9.256,9.256,0,0,1,.243-1.24,12.439,12.439,0,0,1,.485-1.4,2.673,2.673,0,0,1,.189-.405c0-.026.027-.026.027-.054a9.9,9.9,0,0,1,4.043-4.178,9.705,9.705,0,0,1,5.31-1.213,10.489,10.489,0,0,1,2.238.405,9.982,9.982,0,0,1,5.958,5.013A9.4,9.4,0,0,1,183.848,26.186Z" transform="translate(-146.594 -9.271)" fill="#fff"/>
+            <path id="Caminho_83" data-name="Caminho 83" d="M170.636,51.424H158.213l1.3,3.631h11.13Z" transform="translate(-146.385 1.269)" fill="#fff" fill-rule="evenodd"/>
+            <path id="Caminho_84" data-name="Caminho 84" d="M160.476,56.792H173.01V55.643a8.2,8.2,0,0,0-3.073-6.418l-12.014-9.637a1.956,1.956,0,0,0-2.474-.059l-.366.371a1.921,1.921,0,0,0-.389,1.105,1.941,1.941,0,0,0,.63,1.51l7.956,7.285a.839.839,0,0,1,.27.589.828.828,0,0,1-.222.6.839.839,0,0,1-.588.27.819.819,0,0,1-.6-.224l-8.07-7.4a3.662,3.662,0,0,1-1.066-2.7,3.552,3.552,0,0,1,.591-1.879l-.438-12.96a2.158,2.158,0,0,0-.649-1.578h0a2.032,2.032,0,0,0-1.549-.624,2.2,2.2,0,0,0-2.21,2.2V43.547a4.981,4.981,0,0,0,1.59,3.638Z" transform="translate(-148.751 -5.614)" fill="#fff"/>
+            <path id="Caminho_85" data-name="Caminho 85" d="M172.384,55.056h11.13l1.3-3.631H172.393Z" transform="translate(-142.842 1.269)" fill="#fff" fill-rule="evenodd"/>
+            <path id="Caminho_86" data-name="Caminho 86" d="M195.054,47.184a4.981,4.981,0,0,0,1.59-3.639V26.1a2.2,2.2,0,0,0-2.21-2.2,2.032,2.032,0,0,0-1.549.624h0a2.147,2.147,0,0,0-.648,1.578L191.8,39.063a3.548,3.548,0,0,1,.591,1.878,3.66,3.66,0,0,1-1.066,2.7l-8.07,7.4a.818.818,0,0,1-.6.223.834.834,0,0,1-.588-.27.825.825,0,0,1-.223-.6.833.833,0,0,1,.27-.588l7.956-7.285a1.965,1.965,0,0,0,.243-2.616l-.368-.37a1.954,1.954,0,0,0-2.474.059l-12.014,9.637a8.2,8.2,0,0,0-3.073,6.418v1.149h12.534Z" transform="translate(-142.842 -5.615)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

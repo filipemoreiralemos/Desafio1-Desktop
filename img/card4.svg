@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326" height="417" viewBox="0 0 326 417">
+  <defs>
+    <filter id="Retângulo_4" x="0" y="0" width="326" height="417" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.612"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="frete" transform="translate(1 0.084)">
+    <g id="Grupo_4" data-name="Grupo 4">
+      <g transform="matrix(1, 0, 0, 1, -1, -0.08)" filter="url(#Retângulo_4)">
+        <g id="Retângulo_4-2" data-name="Retângulo 4" transform="translate(1)" fill="#fff" stroke="#d0dde9" stroke-width="2" opacity="0.5">
+          <rect width="314" height="403" rx="6" stroke="none"/>
+          <rect x="1" y="1" width="312" height="401" rx="5" fill="none"/>
+        </g>
+      </g>
+      <path id="Retângulo_5" data-name="Retângulo 5" d="M0,0H314a0,0,0,0,1,0,0V18a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V0A0,0,0,0,1,0,0Z" transform="translate(0 378.916)" fill="#003d79"/>
+      <text id="Contamos_com_o_sistema_de_envio_aéreo_de_equipamentos_para_garantir_que_seus_produtos_cheguem_o_mais_rápido_possível_até_você_de_forma_segura_e_sem_avarias._Não_perca_tempo_PISCOU_CHEGOU_" data-name="Contamos com o sistema de envio aéreo de equipamentos para garantir que seus produtos cheguem o mais rápido possível até você, de forma segura e sem avarias. Não perca tempo, PISCOU CHEGOU!" transform="translate(32 162.916)" fill="#020007" font-size="14" font-family="Helvetica"><tspan x="0" y="11">Contamos com o sistema de envio </tspan><tspan x="0" y="29">aéreo de equipamentos para garantir </tspan><tspan x="0" y="47">que seus produtos cheguem o mais </tspan><tspan x="0" y="65">rápido possível até você, de forma </tspan><tspan x="0" y="83">segura e sem avarias. Não perca </tspan><tspan x="0" y="101">tempo, PISCOU CHEGOU!</tspan></text>
+      <text id="Frete_Piscou_Chegou" data-name="Frete Piscou Chegou" transform="translate(32 119.916)" fill="#003d79" font-size="20" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="15">FRETE PISCOU CHEGOU</tspan></text>
+      <g id="Grupo_62" data-name="Grupo 62" transform="translate(116.998 24)">
+        <circle id="Elipse_1" data-name="Elipse 1" cx="40" cy="40" r="40" transform="translate(0.002 -0.084)" fill="#1c89f2"/>
+        <g id="Grupo_90" data-name="Grupo 90">
+          <path id="Caminho_63" data-name="Caminho 63" d="M348.7,80.806h-70a5,5,0,0,1-5-5V5.8a5,5,0,0,1,5-5h70a5,5,0,0,1,5,5v70a5,5,0,0,1-5,5" transform="translate(-273.702 -0.804)" fill="#fff" opacity="0"/>
+          <g id="Grupo_84" data-name="Grupo 84" transform="translate(9.835 19.019)">
+            <path id="Caminho_64" data-name="Caminho 64" d="M339.724,36.757,334.016,36l-3.488-10.464a2.8,2.8,0,0,0-2.664-1.9H318.1v-5.39a2.205,2.205,0,0,0-2.219-2.22H283.789a2.206,2.206,0,0,0-2.219,2.22V49.947a2.841,2.841,0,0,0,2.854,2.854h4.5a7.99,7.99,0,0,0,15.981,0H318.86a7.99,7.99,0,1,0,15.98,0h4.5a2.409,2.409,0,0,0,2.41-2.41V39.1A2.239,2.239,0,0,0,339.724,36.757ZM296.98,57.96a5.223,5.223,0,1,1,5.223-5.223,5.353,5.353,0,0,1-5.223,5.223m17.186-12.685h-28.6A1.259,1.259,0,0,1,284.3,44.01V20.118a1.26,1.26,0,0,1,1.265-1.265h28.6a1.26,1.26,0,0,1,1.265,1.265V44.01A1.26,1.26,0,0,1,314.166,45.275Zm4.871-8.983a1.412,1.412,0,0,1-1.429-1.405V27.158a1.411,1.411,0,0,1,1.429-1.405h8.412a1.46,1.46,0,0,1,1.35.936l2.778,8.119a1.019,1.019,0,0,1-1.033,1.328Zm7.876,21.642a5.2,5.2,0,1,1,5.2-5.2,5.327,5.327,0,0,1-5.2,5.2" transform="translate(-281.57 -16.019)" fill="#fff"/>
+            <path id="Caminho_65" data-name="Caminho 65" d="M307.659,33.471H288.824a.771.771,0,0,0-.76.761V35.69a.77.77,0,0,0,.76.761h18.835a.772.772,0,0,0,.761-.761V34.232a.818.818,0,0,0-.761-.761" transform="translate(-279.946 -11.655)" fill="#fff"/>
+            <path id="Caminho_66" data-name="Caminho 66" d="M289.469,28.3h1.839V33.75a.772.772,0,0,0,.761.761h1.4a.772.772,0,0,0,.761-.761V28.3H296a.989.989,0,0,0,.824-.508,1,1,0,0,0-.062-.951l-3.3-4.5a.889.889,0,0,0-1.459,0l-3.3,4.566a.862.862,0,0,0-.064.951A.912.912,0,0,0,289.469,28.3Z" transform="translate(-279.83 -14.535)" fill="#fff"/>
+            <path id="Caminho_67" data-name="Caminho 67" d="M298.03,28.3h1.839V33.75a.772.772,0,0,0,.761.761h1.459a.772.772,0,0,0,.761-.761V28.3h1.775a.989.989,0,0,0,.825-.508,1.006,1.006,0,0,0-.064-.951l-3.3-4.5a.889.889,0,0,0-1.459,0l-3.3,4.566a.862.862,0,0,0-.064.951A.88.88,0,0,0,298.03,28.3Z" transform="translate(-277.673 -14.535)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

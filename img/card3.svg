@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326" height="417" viewBox="0 0 326 417">
+  <defs>
+    <filter id="Retângulo_4" x="0" y="0" width="326" height="417" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.612"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="treinamento" transform="translate(1)">
+    <g id="Grupo_4" data-name="Grupo 4">
+      <g transform="matrix(1, 0, 0, 1, -1, 0)" filter="url(#Retângulo_4)">
+        <g id="Retângulo_4-2" data-name="Retângulo 4" transform="translate(1)" fill="#fff" stroke="#d0dde9" stroke-width="2" opacity="0.5">
+          <rect width="314" height="403" rx="6" stroke="none"/>
+          <rect x="1" y="1" width="312" height="401" rx="5" fill="none"/>
+        </g>
+      </g>
+      <path id="Retângulo_5" data-name="Retângulo 5" d="M0,0H314a0,0,0,0,1,0,0V18a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V0A0,0,0,0,1,0,0Z" transform="translate(0 379)" fill="#003d79"/>
+      <text id="Nossas_especialistas_técnicas_estão_prontas_para_oferecer_um_treinamento_completo_personalizado_e_tirar_todas_as_suas_dúvidas._Aqui_na_BCMED_você_compra_seu_equipamento_com_o_suporte_necessário_para_você_iniciar_seus_atendimentos_com_qualidade_e_começar" data-name="Nossas especialistas técnicas estão prontas para oferecer um treinamento completo, personalizado e tirar todas as suas dúvidas.
+ Aqui na BCMED, você compra seu equipamento com o suporte necessário para você iniciar seus atendimentos com qualidade e começar" transform="translate(32 190)" fill="#020007" font-size="14" font-family="Helvetica"><tspan x="0" y="11">Nossas especialistas técnicas estão </tspan><tspan x="0" y="29">prontas para oferecer um treinamento </tspan><tspan x="0" y="47">completo, personalizado e tirar todas as </tspan><tspan x="0" y="65">suas dúvidas.</tspan><tspan x="0" y="95" xml:space="preserve"> Aqui na BCMED, você compra seu </tspan><tspan x="0" y="113">equipamento com o suporte necessário </tspan><tspan x="0" y="131">para você iniciar seus atendimentos </tspan><tspan x="0" y="149">com qualidade e começar a lucrar!</tspan></text>
+      <text id="Treinamento_Personalizado" data-name="Treinamento Personalizado" transform="translate(32 120)" fill="#003d79" font-size="20" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="15">TREINAMENTO </tspan><tspan x="0" y="39">PERSONALIZADO</tspan></text>
+      <g id="Grupo_62" data-name="Grupo 62" transform="translate(116.998 23.998)">
+        <circle id="Elipse_1" data-name="Elipse 1" cx="40" cy="40" r="40" transform="translate(0.002 0.002)" fill="#1c89f2"/>
+        <g id="Grupo_89" data-name="Grupo 89">
+          <path id="Caminho_57" data-name="Caminho 57" d="M144.193,80.806h-70a5,5,0,0,1-5-5V5.8a5,5,0,0,1,5-5h70a5,5,0,0,1,5,5v70a5,5,0,0,1-5,5" transform="translate(-69.191 -0.804)" fill="#fff" opacity="0"/>
+          <g id="Grupo_86" data-name="Grupo 86" transform="translate(11.918 16.398)">
+            <path id="Caminho_58" data-name="Caminho 58" d="M97.592,40.451a1.641,1.641,0,0,0-2.9,0l-6.734,12.02a.932.932,0,0,0,.363,1.3.972.972,0,0,0,1.376-.363l5.575-9.558V56.309a.974.974,0,0,0,.941,1.013.932.932,0,0,0,.941-1.013V43.853l5.5,9.558a.988.988,0,0,0,1.738-.94Z" transform="translate(-76.448 -7.506)" fill="#fff"/>
+            <path id="Caminho_59" data-name="Caminho 59" d="M122.633,20.229a4.924,4.924,0,1,1-4.924-4.924,4.925,4.925,0,0,1,4.924,4.924" transform="translate(-70.209 -13.576)" fill="#fff"/>
+            <path id="Caminho_60" data-name="Caminho 60" d="M115.219,41a1.036,1.036,0,0,1-1.014,1.014H82.635A.99.99,0,0,1,81.621,41V19.351a.932.932,0,0,1,1.014-.941H114.2a.976.976,0,0,1,1.014.941v6.083l2.9-.508V17.252a1.809,1.809,0,0,0-1.883-1.81H103.343V15.37a1.452,1.452,0,0,0-1.448-1.448H95.017a1.469,1.469,0,0,0-1.448,1.52v.073H80.608a1.768,1.768,0,0,0-1.883,1.81V43.1a1.887,1.887,0,0,0,1.883,1.955h35.625a1.931,1.931,0,0,0,1.883-1.955V31.879l-2.9.506Z" transform="translate(-78.725 -13.922)" fill="#fff"/>
+            <path id="Caminho_61" data-name="Caminho 61" d="M116.168,23.438a1.36,1.36,0,0,1,.6.088,6.5,6.5,0,0,0,3.8,1.218,6.934,6.934,0,0,0,3.188-.83c.208.1.459.181.721.271a3.251,3.251,0,0,1,.983.434,4.183,4.183,0,0,1,.466.941c.958,2.414,1.728,4.939,2.471,7.381.66,2.166,1.343,4.408,2.159,6.583a1.68,1.68,0,0,1-.843,2.141,1.618,1.618,0,0,1-.635.131,1.707,1.707,0,0,1-1.558-1.043l-1.665-4.344-.6-1.578V59.4a1.957,1.957,0,0,1-3.864,0V45.137a.811.811,0,0,0-.82-.819.743.743,0,0,0-.746.819V59.332a1.861,1.861,0,0,1-1.86,1.859,1.933,1.933,0,0,1-1.931-1.931V27.172l-.368.065-12.315,2.173a1.619,1.619,0,0,1-.325.032,1.687,1.687,0,0,1-1.625-1.38,1.656,1.656,0,0,1,1.341-1.948c1.016-.183,2.031-.381,3.046-.581s2.024-.4,3.036-.579c1.085-.2,1.884-.389,2.81-.613.433-.1.888-.214,1.416-.334a13.214,13.214,0,0,1,3.124-.57" transform="translate(-73.065 -11.543)" fill="#fff"/>
+            <path id="Caminho_62" data-name="Caminho 62" d="M104.059,32.448a1.209,1.209,0,1,0-1.014-1.376v.508l-2.389,1.665a3.534,3.534,0,0,0-.508-.218,1.413,1.413,0,0,0-.58.073l-3.693-5.285a.436.436,0,0,0,.073-.29,1.208,1.208,0,0,0-2.389-.361V27.6l-2.753,1.955a.656.656,0,0,0-.506-.218h-.508l-5-7.168a1.03,1.03,0,0,0,.145-.435,1.209,1.209,0,1,0-1.376,1.014H84l5.068,7.241c-.071.145-.071.216-.145.361a1.209,1.209,0,0,0,2.39.363v-.289l2.824-1.956a1.03,1.03,0,0,0,.435.145,1.433,1.433,0,0,0,.579-.071l3.693,5.285a.436.436,0,0,0-.073.29,1.209,1.209,0,0,0,2.39.361v-.361l2.461-1.739C103.769,32.376,103.914,32.448,104.059,32.448Z" transform="translate(-77.775 -12.32)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
